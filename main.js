@@ -106,3 +106,25 @@ console.log(arrayStartWIthB);
 
 arrayStartWIthB.unshift("yello")
 console.log(arrayStartWIthB)
+
+function sum(a,b){
+return a+b;
+}
+console.log(sum(2,3));
+function divide(a,b){
+    return a/b;
+}
+console.log(divide(2,3));
+function multi(a,b){
+    return a * b;
+}
+console.log(multi(2,3));
+function sub(a,b){
+    return a-b;
+}
+console.log(sub(2,3));
+function modul(a,b){
+    return a%b;
+}
+
+console.log(modul(2,3));
